@@ -1,7 +1,7 @@
 {
-  "name": "bytetech",
+  "name": "Test",
   "version": "2.1.0",
-  "description": "-- AWESOMENESS --",
+  "description": "Test",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
